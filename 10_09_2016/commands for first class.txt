@@ -1,0 +1,12 @@
+git add filename
+git status
+git commit -m "changes"
+git config --global user.name "<your name>"
+
+git config --global user.email "<your email>"
+git remote rm origin
+if https is not working then you need to get ssh
+add ssh key to your git account
+and then
+git pull origin <branch name>
+git push origin <branch name>
