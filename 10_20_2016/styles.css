@@ -1,0 +1,199 @@
+form[name="newLicenseForm"]{
+    display: block;
+    border: 2px solid #000;
+    border-radius: 5px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 100px;
+    padding-top: 20px;
+    position: static;top: 0;
+    /*background: #466368;
+    background: linear-gradient(to right, #f6f1d3, #648880 85%, #293f50);*/
+}
+
+div{
+    margin: 10px 20px;
+    display: inline-block;
+}
+
+label{
+    display: block;
+    padding: 10px 0;
+}
+
+ul{
+    list-style-type: none;
+    /*list-style: decimal;
+    padding-left: 40px;*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li{
+    display: inline-block;
+    margin: 0 10px;
+}
+/*div {
+    background: #466368;
+    background: linear-gradient(to right, #f6f1d3, #648880 85%, #293f50);
+    border-radius: 6px;
+    height: 120px;
+}*/
+
+button{
+    border: 1px solid #5e5e5e;
+    border-radius: 5px;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 10px;
+}
+
+button[type="submit"]{
+    background: #9dd7fd;
+}
+button[type="submit"]:hover {
+    background-color: #faef6d;
+    color: green;
+    border: 3px solid #4CAF50;
+}
+
+button[type="reset"]{
+    background: #f71814;
+}
+button[type="reset"]:hover {
+    background-color: #95d88b;
+    color: green;
+    border: 3px solid #f88495;
+}
+input{
+    padding: 8px 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+#main-section{
+    position: relative;
+    top: 75px;
+}
+
+#nav-heading{
+    position: fixed;
+    top: 0;
+    left: 200px;
+    right: 200px;;
+    background: #fff;
+    /*text-align: center;*/
+
+}
+/*ul {
+
+}*/
+#nav-heading nav{
+    width: 650px;
+    margin: 0 auto;
+
+}
+
+#main-heading{
+    position: fixed;
+    top: 0;
+    left: 550px;
+    background: #fff;
+}
+
+form[name="newLicenseForm"] div:nth-child(1),
+form[name="newLicenseForm"] div:nth-child(2){
+    background-color: #fff;
+}
+/*
+div > p{
+    background: #ff0000;
+}*/
+
+
+header> li:nth-child(2){
+    background: #41b70c;
+}
+div + p{
+    color: #ffef66;
+}
+div > p{
+    color: #ff2456;
+}
+div ~ p{
+    color: #4158ff;
+}
+form[name="newLicenseForm"] > div{
+    position: relative;
+}
+input[name=fname] + label,
+input[name=lname] + label,
+input[name="phoneNumber"]~ label{
+    position: absolute;
+    top: -4px;
+    left: -5px;
+    /*background: #000000;*/
+}
+input[name=fname]:focus + label,
+input[name=lname]:focus + label,
+input[name="phoneNumber"]:focus ~ label{
+    top: -35px;
+}
+#nav-footer{
+    position: fixed;
+    bottom: 0;
+    left: 550px;
+    background: #fff;
+    /*text-align: center;*/
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 260px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
