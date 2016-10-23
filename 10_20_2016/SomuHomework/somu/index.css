@@ -1,0 +1,130 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li{
+    display: inline-block;
+    margin: 0 10px;
+    float: left;
+}
+#main-section{
+    position: relative;
+    top: -25px;
+}
+
+#nav-heading{
+    position: fixed;
+    top: 0;
+    left: 200px;
+    right: 200px;
+    background: #fff;
+    width: 385px;
+    margin: 0 auto;
+
+}
+
+#main-heading{
+    position: relative;
+    text-align: center;
+    padding: 35px 15px;
+}
+
+#nav-footer{
+    position: fixed;
+    bottom: 0;
+    left: 200px;
+    right: 200px;
+    background: #fff;
+    width: 385px;
+    margin: 0 auto;
+}
+
+li a{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #68d981;
+}
+form {
+    display: block;
+    border: 3px solid #5e5e5e;
+    border-radius: 5px;
+    width: 350px;
+    text-align: center;
+    padding: 45px;
+    margin: auto;
+    /*position: relative;*/
+    background-color: gainsboro;/*
+    box-sizing: border-box;*/
+}
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    outline: none;
+}
+
+input[type=text]:focus {
+    background-color: lightblue;
+}
+button{
+    border: 1px solid #5e5e5e;
+    border-radius: 5px;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 10px;
+}
+
+button[type="submit"]{
+    background: #9dd7fd;
+}
+button[type="submit"]:hover {
+    background-color: #faef6d;
+    color: green;
+    border: 3px solid #4CAF50;
+}
+
+button[type="reset"]{
+    background: #f71814;
+}
+button[type="reset"]:hover {
+    background-color: #95d88b;
+    color: green;
+    border: 3px solid #f88495;
+}
+
+div > p {
+    background-color: yellow;
+    width: 180px;
+}
+div + p {
+    background-color: #202dff;
+    width: 180px;
+}
+p ~ ul {
+    background: #ff0000;
+    width: 180px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li{
+    display: inline-block;
+    margin: 0 10px;
+    float: left;
+}
