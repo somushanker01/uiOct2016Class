@@ -109,7 +109,7 @@ div > p {
     width: 180px;
 }
 div + p {
-    background-color: #202dff;
+    background-color: #ff7af2;
     width: 180px;
 }
 p ~ ul {
