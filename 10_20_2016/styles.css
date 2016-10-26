@@ -35,7 +35,7 @@ body{
 
 #nav-heading > nav > ul,
 #main-footer > nav > ul{
-    list-type: none;
+    list-style-type : none;
 }
 
 #nav-heading > nav > ul li,
