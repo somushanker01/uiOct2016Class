@@ -1,0 +1,27 @@
+1. cd ..        gets you to home directory
+2. cd /c/       gets you into c drive
+3. cd Users/somu/Desktop        gets you desktop
+4. ls       displays file in present directory
+5. pwd      present working directory
+6. mkdir directory_name     this will create new directory with directory_name
+7. exit         this will close the git bash
+8. clear        will clear the screen
+9. Checking for existing SSH keys
+10. ls -al
+11. git config --global user.name "user name"
+12. git config --global user.email "user mail@gmail.com"
+13. Generating a new SSH key
+14. ssh-keygen -t rsa -C "user mail@gmail.com"
+15. run ssh agent in background
+16. ssh-agent -s
+17. vi id_rsa.pub
+18. copy ssh key and paste it in git ssh
+19. enter shift z twice to exit
+20. cd    will take you to home directory(c)
+21. git init        git initializes empty git repository in present working directory
+22. git status      displays if there is any changes made
+23. git add .        adds the file
+24. git commit -m "comment the changes "
+
+
+

@@ -4,5 +4,5 @@
 4. git pull origin <branch name>
 5. git push origin <branch name>
 6. git fetch upstream
-7. git merge upstream/master
-8. git push origin master
+7. git merge upstream/master        this will get the updated data from master
+8. git push origin master           this will push the data on to your drive
