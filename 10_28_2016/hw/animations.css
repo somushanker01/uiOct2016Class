@@ -1,0 +1,40 @@
+@keyframes move{
+    0%,100% {
+        opacity: 0;
+        top: 50%;
+        left: 25%;
+        font-size: 14px;
+    }
+    50% {
+        opacity: 1;
+        top: 20%;
+        left: 0;
+        font-size: 100px;
+    }
+}
+#main-heading{
+    -webkit-animation: move 2s infinite;
+    -moz-animation: move 2s infinite;
+    -o-animation: move 2s infinite;
+    animation: move 2s infinite;
+}
+
+#main-footer{
+    position: fixed;
+    -webkit-animation: pulse 20s infinite;
+    -moz-animation: pulse 20s infinite;
+    -o-animation: pulse 20s infinite;
+    animation: pulse 10s infinite;
+}
+@keyframes pulse {
+    0% {
+        right: -50%;
+        background-color: #001F3F;
+    }
+    100% {
+        right: 50%;
+        background-color: #FF4136;
+    }
+}
+
+
