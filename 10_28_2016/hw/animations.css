@@ -36,5 +36,13 @@
         background-color: #FF4136;
     }
 }
+.twoDianimation{
+
+    -webkit-transform: skew(50deg, -10deg);
+    -moz-transform: skew(50deg, -10deg);
+    -o-transform: skew(50deg, -10deg);
+    -ms-transform: skew(50deg, -10deg);
+    transform: skew(50deg, -10deg);
+}
 
 
