@@ -2,15 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d7f0e0e-6a67-4825-ae1b-2acd7285c234" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11_09_2016/somu/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11_09_2016/somu/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11_09_2016/somu/drop.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11_09_2016/somu/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11_09_2016/somu/styles/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11_09_2016/somu/nav-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/somushanker/images/adidas08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11_09_2016/logg.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11_09_2016/logg.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11_09_2016/somu/responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11_09_2016/somu/responsive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11_09_2016/styles/soft.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/somushanker/stylesheets/less/breadcrumb.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/somushanker/stylesheets/less/container.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/somushanker/stylesheets/less/form.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/somushanker/stylesheets/less/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/somushanker/stylesheets/less/media.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/somushanker/stylesheets/less/navigation.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/somushanker/stylesheets/less/responsiveimage.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/somushanker/stylesheets/less/styles.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/somushanker/templates/SignUp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/somushanker/templates/login_form.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/11_09_2016/somu/styles/styles.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10_28_2016/hw/animations.css" afterPath="$PROJECT_DIR$/10_28_2016/hw/animations.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10_28_2016/hw/index.html" afterPath="$PROJECT_DIR$/10_28_2016/hw/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10_20_2016/SomuHomework/somu/homework.html" afterPath="$PROJECT_DIR$/10_20_2016/SomuHomework/somu/homework.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/11_03_2016/media.css" afterPath="$PROJECT_DIR$/11_03_2016/media.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/11_09_2016/assignment.txt" afterPath="$PROJECT_DIR$/11_09_2016/assignment.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/less/dist/less.js" afterPath="$PROJECT_DIR$/node_modules/less/dist/less.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/less/lib/less-browser/add-default-options.js" afterPath="$PROJECT_DIR$/node_modules/less/lib/less-browser/add-default-options.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/somushanker/templates/Login_Form.html" afterPath="$PROJECT_DIR$/somushanker/templates/Login_Form.html" />
     </list>
     <ignored path="uiOct2016Class.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,41 +49,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11_09_2016/somu/styles/styles.css">
+      <file leaf-file-name="logg.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11_09_2016/logg.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login_Form.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/somushanker/templates/Login_Form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1325">
+              <caret line="53" column="26" selection-start-line="44" selection-start-column="20" selection-end-line="53" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="breadcrumb.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/less/breadcrumb.less">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11_09_2016/somu/index.html">
+      <file leaf-file-name="SignUp.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/somushanker/templates/SignUp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+            <state relative-caret-position="150">
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gitMustFollowCommands.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gitMustFollowCommands.txt">
+      <file leaf-file-name="form.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/less/form.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="450">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.rnc" pinned="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <file leaf-file-name="navigation.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/less/navigation.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4800">
-              <caret line="192" column="18" selection-start-line="192" selection-start-column="18" selection-end-line="192" selection-end-column="18" />
+            <state relative-caret-position="260">
+              <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="responsiveimage.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/less/responsiveimage.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="media.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/less/media.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/styles/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="69" column="12" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="container.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/less/container.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -78,8 +154,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -89,15 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/10_19_2016/so.html" />
-        <option value="$PROJECT_DIR$/10_20_2016/assignment.txt" />
-        <option value="$PROJECT_DIR$/10_20_2016/SomuHomework/index.html" />
-        <option value="$PROJECT_DIR$/10_20_2016/SomuHomework/index.css" />
-        <option value="$PROJECT_DIR$/10_20_2016/SomuHomework/somu/did not work on.txt" />
-        <option value="$PROJECT_DIR$/10_20_2016/SomuHomework/somu/homework.html" />
-        <option value="$PROJECT_DIR$/10_20_2016/index.html" />
-        <option value="$PROJECT_DIR$/10_20_2016/styles.css" />
-        <option value="$PROJECT_DIR$/10_20_2016/SomuHomework/somu/index.css" />
         <option value="$PROJECT_DIR$/10_24_2016/index.html" />
         <option value="$PROJECT_DIR$/git_commands" />
         <option value="$PROJECT_DIR$/10_28_2016/somu/animation.css" />
@@ -115,6 +182,40 @@
         <option value="$PROJECT_DIR$/11_09_2016/somu/index.html" />
         <option value="$PROJECT_DIR$/11_09_2016/somu/drop.css" />
         <option value="$PROJECT_DIR$/11_09_2016/somu/drop.less" />
+        <option value="$PROJECT_DIR$/11_09_2016/index.html" />
+        <option value="$PROJECT_DIR$/somushanker/stylesheets/styles/login.css" />
+        <option value="$PROJECT_DIR$/11_09_2016/assignment.txt" />
+        <option value="$PROJECT_DIR$/somushanker/stylesheets/less/reusableclasses.less" />
+        <option value="$PROJECT_DIR$/somushanker/stylesheets/less/reusableClasses.less" />
+        <option value="$PROJECT_DIR$/somushanker/stylesheets/less/grid.less" />
+        <option value="$PROJECT_DIR$/somushanker/stylesheets/styles/media.css" />
+        <option value="$PROJECT_DIR$/11_09_2016/payroll.html" />
+        <option value="$PROJECT_DIR$/somushanker/stylesheets/less/main.less" />
+        <option value="$PROJECT_DIR$/11_09_2016/styles/soft.css" />
+        <option value="$PROJECT_DIR$/somushanker/templates/login.html" />
+        <option value="$PROJECT_DIR$/11_03_2016/bootstrap-3.3.7-dist/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/somushanker/stylesheets/soft.css" />
+        <option value="$PROJECT_DIR$/somushanker/templates/log.html" />
+        <option value="$PROJECT_DIR$/10_20_2016/SomuHomework/somu/homework.html" />
+        <option value="$PROJECT_DIR$/somushanker/somu/index.css" />
+        <option value="$PROJECT_DIR$/somushanker/somu/homework.html" />
+        <option value="$PROJECT_DIR$/somushanker/templates/login_form.html" />
+        <option value="$PROJECT_DIR$/11_09_2016/logg.css" />
+        <option value="$PROJECT_DIR$/11_09_2016/logg.html" />
+        <option value="$PROJECT_DIR$/11_09_2016/somu/responsive.css" />
+        <option value="$PROJECT_DIR$/11_09_2016/somu/responsive.html" />
+        <option value="$PROJECT_DIR$/somushanker/homework/log2.html" />
+        <option value="$PROJECT_DIR$/somushanker/homework/log2.css" />
+        <option value="$PROJECT_DIR$/somushanker/stylesheets/less/styles.less" />
+        <option value="$PROJECT_DIR$/somushanker/templates/SignUp.html" />
+        <option value="$PROJECT_DIR$/somushanker/stylesheets/less/breadcrumb.less" />
+        <option value="$PROJECT_DIR$/somushanker/stylesheets/less/responsiveimage.less" />
+        <option value="$PROJECT_DIR$/somushanker/stylesheets/less/container.less" />
+        <option value="$PROJECT_DIR$/somushanker/stylesheets/less/form.less" />
+        <option value="$PROJECT_DIR$/somushanker/stylesheets/less/media.less" />
+        <option value="$PROJECT_DIR$/somushanker/stylesheets/styles/styles.css" />
+        <option value="$PROJECT_DIR$/somushanker/stylesheets/less/navigation.less" />
+        <option value="$PROJECT_DIR$/somushanker/templates/Login_Form.html" />
       </list>
     </option>
   </component>
@@ -159,6 +260,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -177,9 +279,84 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uiOct2016Class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uiOct2016Class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="somushanker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uiOct2016Class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uiOct2016Class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="somushanker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uiOct2016Class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uiOct2016Class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="somushanker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uiOct2016Class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uiOct2016Class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="somushanker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,7 +366,7 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -198,11 +375,11 @@
       <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\11_09_2016\somu" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\somushanker\images" />
+      <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\somushanker\templates" />
+      <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\somushanker\homework" />
       <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\11_09_2016\somu" />
-      <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\10_28_2016" />
-      <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\10_28_2016\somu\payment_form" />
-      <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\10_24_2016" />
-      <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\10_20_2016\SomuHomework" />
+      <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\somushanker" />
     </key>
   </component>
   <component name="RunManager">
@@ -304,34 +481,46 @@
       <workItem from="1478792252024" duration="639000" />
       <workItem from="1478798980293" duration="1948000" />
       <workItem from="1478808705759" duration="685000" />
-      <workItem from="1478811289692" duration="295000" />
+      <workItem from="1478811289692" duration="2080000" />
+      <workItem from="1478891227321" duration="952000" />
+      <workItem from="1478901588153" duration="3345000" />
+      <workItem from="1478906458082" duration="2142000" />
+      <workItem from="1478915576017" duration="8967000" />
+      <workItem from="1478936090429" duration="5926000" />
+      <workItem from="1478972406494" duration="2933000" />
+      <workItem from="1478977255176" duration="2268000" />
+      <workItem from="1478980575522" duration="291000" />
+      <workItem from="1478980881321" duration="8911000" />
+      <workItem from="1479006155312" duration="738000" />
+      <workItem from="1479008162481" duration="16095000" />
+      <workItem from="1479036944584" duration="1632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109519000" />
+    <option name="totallyTimeSpent" value="165504000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.114225276" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12797461" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="GitLabIntegration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979977" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="GitLabIntegration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979977" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41058823" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41058823" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -350,208 +539,79 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/10_19_2016/index.html">
+    <entry file="file://$PROJECT_DIR$/11_03_2016/media.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="62" column="26" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+        <state relative-caret-position="632">
+          <caret line="42" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10_24_2016/assignment.txt" />
-    <entry file="file://$PROJECT_DIR$/10_24_2016/styles.css">
+    <entry file="file://$PROJECT_DIR$/11_04_2016/less/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_09_2016/styles/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10_24_2016/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="46" column="46" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_24_2016/css units.txt">
+    <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/styles/main.css" />
+    <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/styles/media.css" />
+    <entry file="file://$PROJECT_DIR$/10_26_2016/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_24_2016/checkbox-radio-sprite-image.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_20_2016/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="120" column="39" selection-start-line="120" selection-start-column="39" selection-end-line="120" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_20_2016/srikar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_20_2016/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1300">
-          <caret line="52" column="30" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_27_2016/DMV-logo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_27_2016/f2nbsPJ.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_27_2016/img_navsprites.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_27_2016/css 2D and 3D transform.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_28_2016/somu/animation.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_28_2016/somu/payment_form/free-background-7.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_28_2016/somu/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="732">
-          <caret line="63" column="1" selection-start-line="10" selection-start-column="0" selection-end-line="63" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_28_2016/somu/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_20_2016/SomuHomework/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="707">
-          <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_20_2016/SomuHomework/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_20_2016/SomuHomework/somu/homework.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="732">
-          <caret line="64" column="84" selection-start-line="64" selection-start-column="84" selection-end-line="64" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_20_2016/SomuHomework/somu/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1600">
-          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_28_2016/somu/payment_form/payment.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_28_2016/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1950">
-          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_26_2016/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_25_2016/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="38" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_28_2016/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1325">
-          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="86" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_27_2016/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2800">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_28_2016/somu/payment_form/payment.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="33" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/10_27_2016/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="-2275">
           <caret line="167" column="0" selection-start-line="167" selection-start-column="0" selection-end-line="170" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10_28_2016/assignment.txt">
+    <entry file="file://$PROJECT_DIR$/10_28_2016/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6343">
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="86" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_01_2016/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="162" column="26" selection-start-line="162" selection-start-column="24" selection-end-line="162" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_09_2016/payroll.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="59" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_28_2016/hw/animations.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_09_2016/styles/soft.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10_28_2016/hw/animations.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11_09_2016/somu/css/bootstrap.min.css">
+    <entry file="file://$PROJECT_DIR$/10_28_2016/hw/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -565,120 +625,222 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10_28_2016/hw/index.css">
+    <entry file="file://$PROJECT_DIR$/10_28_2016/somu/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/git_commands">
+    <entry file="file://$PROJECT_DIR$/10_28_2016/somu/payment_form/payment.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="275">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11_04_2016/less/variables.less">
+    <entry file="file://$PROJECT_DIR$/somushanker/templates/log.html" />
+    <entry file="file://$PROJECT_DIR$/10_20_2016/SomuHomework/somu/homework.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="310">
+          <caret line="113" column="19" selection-start-line="113" selection-start-column="19" selection-end-line="113" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11_09_2016/somu/styles/stles.css" />
-    <entry file="file://$PROJECT_DIR$/11_04_2016/less/media.less">
+    <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/soft.css" />
+    <entry file="file://$PROJECT_DIR$/somushanker/templates/login.html" />
+    <entry file="file://$PROJECT_DIR$/somushanker/somu/index.css" />
+    <entry file="file://$PROJECT_DIR$/11_09_2016/logg.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="325">
+          <caret line="13" column="63" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11_04_2016/less/reusableClasses.less">
+    <entry file="file://$PROJECT_DIR$/11_01_2016/responsive.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        <state relative-caret-position="692">
+          <caret line="75" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11_04_2016/less/styles.less">
+    <entry file="file://$PROJECT_DIR$/11_09_2016/somu/responsive.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="582">
+          <caret line="118" column="1" selection-start-line="118" selection-start-column="1" selection-end-line="118" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11_04_2016/index.html">
+    <entry file="file://$PROJECT_DIR$/11_09_2016/somu/responsive.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="9" column="58" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="58" />
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json" />
-    <entry file="file://$PROJECT_DIR$/11_09_2016/somu/drop.less">
+    <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/less/main.less" />
+    <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/less/reusableClasses.less" />
+    <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/styles/login.css" />
+    <entry file="file://$PROJECT_DIR$/10_15_2016/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+        <state relative-caret-position="1450">
+          <caret line="58" column="34" selection-start-line="55" selection-start-column="28" selection-end-line="58" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11_09_2016/styles/dropdowns.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11_04_2016/less/main.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11_04_2016/less/responsive.less">
+    <entry file="file://$PROJECT_DIR$/10_12_2016/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11_09_2016/somu/drop.css">
+    <entry file="file://$PROJECT_DIR$/11_03_2016/bootstrap-3.3.7-dist/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11_09_2016/somu/styles/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="61050">
+          <caret line="2442" column="3" selection-start-line="2442" selection-start-column="2" selection-end-line="2442" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/common.rnc">
+    <entry file="file://$PROJECT_DIR$/11_09_2016/bootstrap/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4800">
-          <caret line="192" column="18" selection-start-line="192" selection-start-column="18" selection-end-line="192" selection-end-column="18" />
+        <state relative-caret-position="100">
+          <caret line="4" column="15850" selection-start-line="4" selection-start-column="15836" selection-end-line="4" selection-end-column="15850" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11_09_2016/somu/index.html">
+    <entry file="file://$PROJECT_DIR$/11_09_2016/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+        <state relative-caret-position="150">
+          <caret line="22" column="72" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="72" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gitMustFollowCommands.txt">
+    <entry file="file://$PROJECT_DIR$/10_15_2016/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_09_2016/paycheck.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="60" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="60" />
+          <folding>
+            <element signature="n#style#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/somushanker/somu/homework.html" />
+    <entry file="file://$PROJECT_DIR$/somushanker/homework/log2.css" />
+    <entry file="file://$PROJECT_DIR$/somushanker/homework/log2.html" />
+    <entry file="file://$PROJECT_DIR$/11_09_2016/assignment.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/less/grid.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/less/styles.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="25" />
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_09_2016/logg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/somushanker/templates/SignUp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/less/breadcrumb.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/less/responsiveimage.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/less/container.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/less/form.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/less/media.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/styles/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="69" column="12" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/somushanker/stylesheets/less/navigation.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/somushanker/templates/Login_Form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1325">
+          <caret line="53" column="26" selection-start-line="44" selection-start-column="20" selection-end-line="53" selection-end-column="26" />
           <folding />
         </state>
       </provider>

@@ -1,0 +1,34 @@
+.test{
+  float: right;
+}
+
+.container-fluid {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.input-group[class*="column-"] {
+  float: none;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.container-fluid:before,
+.container-fluid:after,
+.container:before,
+.container:after {
+  display: table;
+  content: " ";
+}
+.container-fluid:after,
+.container:after,
+.row:after {
+  clear: both;
+}

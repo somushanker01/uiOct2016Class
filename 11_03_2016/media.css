@@ -1,5 +1,5 @@
 
-/*IPAD specific styles*/
+/*IPAD specific stylesheets*/
 @media only screen and (min-width: 660px) and (max-width: 768px) and (orientation: portrait){
     .stretch{
         width: 100%;
@@ -15,7 +15,7 @@
     }
 }
 
-/*IPHONE specific styles*/
+/*IPHONE specific stylesheets*/
 @media only screen and (min-width: 200px) and (max-width: 375px) and (orientation: portrait){
     .stretch{
         width: 100%;

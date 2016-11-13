@@ -1,0 +1,80 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  /*background-color: #333;*/
+}
+.nav {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+.nav > li {
+  position: relative;
+  display: block;
+}
+.nav > li > a {
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+}
+.nav > li > a:hover,
+.nav > li > a:focus {
+  text-decoration: none;
+  background-color: #222222;
+}
+
+li {
+  float: left;
+}
+.active{
+  background-color: #222222;
+  border-radius: 5px;
+}
+
+li a {
+  display: block;
+  color: #f7f7f7;
+  text-align: center;
+  padding: 0 12px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  border-radius: 5px;
+  opacity: 0.7;
+}
+.nav-pills > li {
+  float: left;
+}
+.nav-pills > li > a {
+  border-radius: 4px;
+}
+.nav-pills > li + li {
+  margin-left: 2px;
+}
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus {
+  color: #fff;
+  background-color: #337ab7;
+}
+
+.nav-pills > .active > a > .badge {
+  color: #337ab7;
+  background-color: #fff;
+}
+.nav-pills > li > a > .badge {
+  margin-left: 3px;
+}
+.media-right,
+.media > .pull-right {
+  padding-left: 10px;
+}
+.pull-right {
+  float: right !important;
+}
+.hold{
+  background-color: #333333;
+}
