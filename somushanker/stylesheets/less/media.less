@@ -2,18 +2,26 @@
   float: left;
   padding: 0;
 }
-.rows::after {
-  content: "";
-  clear: both;
-  display: block;
+.rows{
+  margin-right: -15px;
+  margin-left: -15px;
+  &::after {
+    content: "";
+    clear: both;
+    display: block;
+  }
 }
-.test > span {
-  float: left;
-}
-.test::after {
-  content: "";
-  clear: both;
-  display: block;
+
+.test {
+
+  > span {
+    float: left;
+  }
+  &::after {
+    content: "";
+    clear: both;
+    display: block;
+  }
 }
 
 @media (min-width: 768px) {
@@ -37,10 +45,7 @@
   margin-right: auto;
   margin-left: auto;
 }
-.rows {
-  margin-right: -15px;
-  margin-left: -15px;
-}
+
 .column-xs-1, .column-sm-1, .column-md-1, .column-lg-1, .column-xs-2, .column-sm-2, .column-md-2, .column-lg-2, .column-xs-3, .column-sm-3, .column-md-3, .column-lg-3, .column-xs-4, .column-sm-4, .column-md-4, .column-lg-4, .column-xs-5, .column-sm-5, .column-md-5, .column-lg-5, .column-xs-6, .column-sm-6, .column-md-6, .column-lg-6, .column-xs-7, .column-sm-7, .column-md-7, .column-lg-7, .column-xs-8, .column-sm-8, .column-md-8, .column-lg-8, .column-xs-9, .column-sm-9, .column-md-9, .column-lg-9, .column-xs-10, .column-sm-10, .column-md-10, .column-lg-10, .column-xs-11, .column-sm-11, .column-md-11, .column-lg-11, .column-xs-12, .column-sm-12, .column-md-12, .column-lg-12 {
   position: relative;
   min-height: 1px;
