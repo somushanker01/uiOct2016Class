@@ -1,34 +1,40 @@
 .test{
   float: right;
 }
-
 .contains-fluid {
   padding-right: 10px;
   padding-left: 10px;
   margin-right: auto;
   margin-left: auto;
+  &:before,
+  &:after{
+    display: table;
+    content: " ";
+  }
+  &:after{
+    clear: both;
+  }
 }
 .input-group[class*="column-"] {
   float: none;
   padding-right: 0;
   padding-left: 0;
 }
-
 .contains {
   padding-right: 10px;
   padding-left: 10px;
   margin-right: auto;
   margin-left: auto;
+  &:before,
+  &:after{
+    display: table;
+    content: " ";
+
+  }
+  &:after{
+    clear: both;
+  }
 }
-.contains-fluid:before,
-.contains-fluid:after,
-.contains:before,
-.contains:after {
-  display: table;
-  content: " ";
-}
-.contains-fluid:after,
-.contains:after,
 .rows:after {
   clear: both;
 }

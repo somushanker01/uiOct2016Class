@@ -16,6 +16,14 @@
   margin-right: auto;
   margin-left: auto;
 }
+.contains-fluid:before,
+.contains-fluid:after {
+  display: table;
+  content: " ";
+}
+.contains-fluid:after {
+  clear: both;
+}
 .input-group[class*="column-"] {
   float: none;
   padding-right: 0;
@@ -27,15 +35,14 @@
   margin-right: auto;
   margin-left: auto;
 }
-.contains-fluid:before,
-.contains-fluid:after,
 .contains:before,
 .contains:after {
   display: table;
   content: " ";
 }
-.contains-fluid:after,
-.contains:after,
+.contains:after {
+  clear: both;
+}
 .rows:after {
   clear: both;
 }
@@ -65,12 +72,12 @@ ul {
   text-decoration: none;
   background-color: #222222;
 }
-li {
-  float: left;
-}
 .active {
   background-color: #222222;
   border-radius: 5px;
+}
+li {
+  float: left;
 }
 li a {
   display: block;
@@ -92,12 +99,33 @@ li a:hover:not(.active) {
 .nav-pills > li + li {
   margin-left: 2px;
 }
+.nav-pills > li.active > a {
+  color: #fff;
+  background-color: #337ab7;
+}
+.nav-pills > li.active > a:hover {
+  color: #fff;
+  background-color: #337ab7;
+}
+.nav-pills > li.active > a:focus {
+  color: #fff;
+  background-color: #337ab7;
+}
+/*.nav-pills > li {
+  float: left;
+}
+.nav-pills > li > a {
+  border-radius: 4px;
+}*/
+/*.nav-pills > li + li {
+  margin-left: 2px;
+}
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
   color: #fff;
   background-color: #337ab7;
-}
+}*/
 .media-right,
 .media > .pull-right {
   padding-left: 10px;
@@ -111,6 +139,10 @@ li a:hover:not(.active) {
 [class*="column-"] {
   float: left;
   padding: 0;
+}
+.rows {
+  margin-right: -15px;
+  margin-left: -15px;
 }
 .rows::after {
   content: "";
@@ -145,10 +177,6 @@ li a:hover:not(.active) {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-}
-.rows {
-  margin-right: -15px;
-  margin-left: -15px;
 }
 .column-xs-1,
 .column-sm-1,
@@ -448,9 +476,10 @@ img:hover {
   max-width: 100%;
   height: auto;
 }
+/*
 .nav > li > a > img {
   max-width: none;
-}
+}*/
 form {
   display: block;
   margin: 30px;
