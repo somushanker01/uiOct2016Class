@@ -1,0 +1,120 @@
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  &::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+.container-fluid {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  &::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+  &::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+[class*="col-"] {
+  float: left;
+  padding: 15px;
+}
+@media (max-width: 767px) {
+  .a(12);
+  .a(@n, @i: 1) when (@i =< @n) {
+    .column-xs-@{i}{
+      width: (@i * 100% / @n);
+      float:left;
+    }
+    .pull-xs-@{i} {
+      right: (@i * 100% / @n);
+    }
+    .push-xs-@{i} {
+      left: (@i * 100% / @n);
+    }
+    .col-xs-offset-@{i} {
+      margin-left: (@i * 100% / @n);
+    }
+    .a(@n, (@i + 1));
+  }
+}
+
+@media (min-width: 768px) {
+  .a(12);
+  .a(@n, @i: 1) when (@i =< @n) {
+    .column-sm-@{i} {
+      width: (@i * 100% / @n);
+      float:left;
+    }
+    .pull-sm-@{i} {
+      right: (@i * 100% / @n);
+    }
+    .push-sm-@{i} {
+      left: (@i * 100% / @n);
+    }
+    .col-sm-offset-@{i} {
+      margin-left: (@i * 100% / @n);
+    }
+    .a(@n, (@i + 1));
+  }
+}
+
+@media (min-width: 992px){
+  .a(12);
+  .a(@n, @i: 1) when (@i =< @n) {
+    .column-md-@{i} {
+      width: (@i * 100% / @n);
+      float:left;
+    }
+    .pull-md-@{i} {
+      right: (@i * 100% / @n);
+    }
+    .push-md-@{i} {
+      left: (@i * 100% / @n);
+    }
+    .col-md-offset-@{i} {
+      margin-left: (@i * 100% / @n);
+    }
+    .a(@n, (@i + 1));
+  }
+}
+
+@media (min-width: 1200px) {
+  .a(12);
+  .a(@n, @i: 1) when (@i =< @n) {
+    .column-lg-@{i} {
+      width: (@i * 100% / @n);
+      float:left;
+    }
+    .pull-lg-@{i} {
+      right: (@i * 100% / @n);
+    }
+    .push-lg-@{i} {
+      left: (@i * 100% / @n);
+    }
+    .col-lg-offset-@{i} {
+      margin-left: (@i * 100% / @n);
+    }
+    .a(@n, (@i + 1));
+  }
+}
+
+
+
+
+

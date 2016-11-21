@@ -6,12 +6,12 @@
   padding-left: 10px;
   margin-right: auto;
   margin-left: auto;
-  &:before,
-  &:after{
+  &::before,
+  &::after{
     display: table;
     content: " ";
   }
-  &:after{
+  &::after{
     clear: both;
   }
 }
@@ -25,16 +25,18 @@
   padding-left: 10px;
   margin-right: auto;
   margin-left: auto;
-  &:before,
-  &:after{
+  &::before,
+  &::after{
     display: table;
     content: " ";
 
   }
-  &:after{
+  &::after{
     clear: both;
   }
 }
-.rows:after {
-  clear: both;
+.rows{
+  &::after {
+    clear: both;
+  }
 }
