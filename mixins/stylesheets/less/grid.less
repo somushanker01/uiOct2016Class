@@ -1,3 +1,15 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+  background-color: #fff;
+}
 .container {
   margin-left: auto;
   margin-right: auto;
@@ -37,7 +49,7 @@
 @media (max-width: 767px) {
   .a(12);
   .a(@n, @i: 1) when (@i =< @n) {
-    .column-xs-@{i}{
+    .col-xs-@{i}{
       width: (@i * 100% / @n);
       float:left;
     }
@@ -57,7 +69,7 @@
 @media (min-width: 768px) {
   .a(12);
   .a(@n, @i: 1) when (@i =< @n) {
-    .column-sm-@{i} {
+    .col-sm-@{i} {
       width: (@i * 100% / @n);
       float:left;
     }
@@ -77,7 +89,7 @@
 @media (min-width: 992px){
   .a(12);
   .a(@n, @i: 1) when (@i =< @n) {
-    .column-md-@{i} {
+    .col-md-@{i} {
       width: (@i * 100% / @n);
       float:left;
     }
@@ -97,7 +109,7 @@
 @media (min-width: 1200px) {
   .a(12);
   .a(@n, @i: 1) when (@i =< @n) {
-    .column-lg-@{i} {
+    .col-lg-@{i} {
       width: (@i * 100% / @n);
       float:left;
     }
