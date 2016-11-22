@@ -10,6 +10,9 @@ body {
   color: #333;
   background-color: #fff;
 }
+.coldwar{
+    border: 1px  #2b669a;
+}
 .container {
   margin-left: auto;
   margin-right: auto;
@@ -44,7 +47,6 @@ body {
 [class*="col-"] {
   float: left;
   padding: 15px;
-  border: 1px solid red;
 }
 @media (max-width: 767px) {
   .col-xs-1 {
