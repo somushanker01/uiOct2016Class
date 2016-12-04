@@ -21,13 +21,21 @@
             }
         }
     };
+    var b=function () {
+        var h = 'sm';
+        return h;
+
+    };
+    console.log(b());
     function form() {
         a=200;
         x.y.rollNumber = 54;
         x.firstName = 'sold';
         x.y.lastName = 'out';
         x.y.z.fullName = 'sold out';
-        return x;
+        console.log(x);
+
+        return b;
 
     }
     console.log(form());

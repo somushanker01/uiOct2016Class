@@ -20,8 +20,8 @@
     /*named function */
 
     function addition(){
-        var a = 10;
-        var y = a + 1.1;
+        var z = 10;
+        var y = z + 1.1;
         var name =so+'shanker';
         console.log(lname);
         console.log(so === 'somu');
