@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d7f0e0e-6a67-4825-ae1b-2acd7285c234" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/somushanker/01_13_2017/basics.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/somushanker/01_13_2017/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/somushanker/01_17_2017/basics.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/somushanker/01_17_2017/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="uiOct2016Class.iws" />
@@ -48,12 +47,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="basics.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="basics.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/somushanker/01_13_2017/basics.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="767">
-              <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+            <state relative-caret-position="1450">
+              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/somushanker/01_17_2017/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basics.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/somushanker/01_17_2017/basics.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc;n#addition#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,7 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/11_09_2016/logg.css" />
         <option value="$PROJECT_DIR$/11_09_2016/logg.html" />
         <option value="$PROJECT_DIR$/11_09_2016/somu/responsive.css" />
         <option value="$PROJECT_DIR$/11_09_2016/somu/responsive.html" />
@@ -138,6 +158,7 @@
         <option value="$PROJECT_DIR$/somushanker/javascript/templates/basics.js" />
         <option value="$PROJECT_DIR$/somushanker/01_13_2017/index.html" />
         <option value="$PROJECT_DIR$/somushanker/01_13_2017/basics.js" />
+        <option value="$PROJECT_DIR$/somushanker/01_17_2017/basics.js" />
       </list>
     </option>
   </component>
@@ -171,7 +192,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -252,6 +272,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="01_17_2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uiOct2016Class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uiOct2016Class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="somushanker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="01_13_2017" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -259,6 +297,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -275,19 +314,19 @@
     <property name="editor.config.accepted" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\somushanker\siri less" />
-      <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\11_03_2016\bootstrap-3.3.7-dist\css" />
-      <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\somushanker\images" />
-      <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\somushanker\templates" />
-      <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\somushanker\homework" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\somushanker\01_13_2017" />
       <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\somushanker" />
       <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\less\11_09_2016\somu" />
       <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\less\11_09_2016" />
       <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\css\11_03_2016\bootstrap-3.3.7-dist" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\somushanker\01_17_2017" />
+      <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\somushanker\siri less" />
+      <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\11_03_2016\bootstrap-3.3.7-dist\css" />
+      <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\somushanker\images" />
+      <recent name="C:\Users\somu\Desktop\git hub\uiOct2016Class\somushanker\templates" />
     </key>
   </component>
   <component name="RunManager">
@@ -456,12 +495,14 @@
       <workItem from="1483647321499" duration="2782000" />
       <workItem from="1484178492049" duration="338000" />
       <workItem from="1484251932376" duration="765000" />
-      <workItem from="1484330529912" duration="3395000" />
+      <workItem from="1484330529912" duration="4097000" />
+      <workItem from="1484714010954" duration="1447000" />
+      <workItem from="1484766892569" duration="216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="280481000" />
+    <option name="totallyTimeSpent" value="282846000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -473,7 +514,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="0" width="1934" height="1048" extended-state="1" />
+    <frame x="-9" y="0" width="1934" height="1048" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35029146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -535,8 +576,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javascript/11_22_2016/index.html" />
-    <entry file="file://$PROJECT_DIR$/javascript/11_22_2016/datatypes.md" />
     <entry file="file://$PROJECT_DIR$/css/11_03_2016/bootstrap-3.3.7-dist/gold.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
@@ -760,7 +799,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -768,7 +806,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -776,7 +813,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -784,7 +820,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -792,7 +827,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -800,7 +834,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -816,7 +849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="625">
           <caret line="25" column="7" lean-forward="false" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -830,9 +862,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/somushanker/01_13_2017/basics.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="767">
-          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+        <state relative-caret-position="1450">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/somushanker/01_17_2017/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/somushanker/01_17_2017/basics.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#addition#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
